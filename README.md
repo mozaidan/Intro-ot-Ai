@@ -5,9 +5,15 @@ In our project, we chose regression instead of classification because stock pric
 
 Our project involves several key steps:
 
-Data Preprocessing: Cleaning and organizing the data to ensure it's ready for analysis.
-Data Analysis (EDA): Exploring the data to understand its patterns and trends.
-Polynomial Regression Modeling: Using polynomial regression to capture complex relationships and make accurate predictions.
-Feature Engineering: Enhancing the data to improve the model's accuracy.
-Training and Model Evaluation: Teaching the model and thoroughly assessing its performance in predicting stock prices.
+- Data Preprocessing: Cleaning and organizing the data to ensure it's ready for analysis.
+
+- Data Analysis (EDA): Exploring the data to understand its patterns and trends.
+
+- Polynomial Regression Modeling: Using polynomial regression to capture complex relationships and make accurate predictions.
+
+- Feature Engineering: Enhancing the data to improve the model's accuracy.
+
+- Training and Model Evaluation: Teaching the model and thoroughly assessing its performance in predicting stock prices.
+
+
 This structured approach helped us navigate each project phase systematically, leading to a more informed and optimized predictive model.

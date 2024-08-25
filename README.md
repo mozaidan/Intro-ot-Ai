@@ -1,22 +1,30 @@
-# Intro-ot-Ai
+# Stock Price Prediction Project with AI
 
-#Assigment2
+In this project, we explore the use of regression techniques to predict stock prices, focusing on the continuous nature of stock data. Initially, we experimented with linear regression but found that polynomial regression provided a more accurate model for capturing the complex and fluctuating nature of stock prices.
 
-In our project, we chose regression instead of classification because stock prices are continuous, not binary or discrete.
-We initially tried linear regression, but after some experimentation, we found that polynomial regression performed better. 
-This choice allowed us to handle the unpredictable ups and downs of stock prices more effectively, resulting in a more accurate predictive model.
+## Project Overview
 
-Our project involves several key steps:
+### Why Regression?
+We opted for regression instead of classification due to the continuous nature of stock prices. While classification is suited for discrete categories, regression models are better equipped to handle continuous variables, like stock prices.
 
-- Data Preprocessing: Cleaning and organizing the data to ensure it's ready for analysis.
+### Key Steps
 
-- Data Analysis: Exploring the data to understand its patterns and trends.
+1. **Data Preprocessing**: 
+   - Cleaning and organizing the raw data to ensure it is suitable for analysis.
 
-- Polynomial Regression Modeling: Using polynomial regression to capture complex relationships and make accurate predictions.
+2. **Data Analysis**:
+   - Exploring and visualizing the data to identify patterns and trends.
 
-- Feature Engineering: Enhancing the data to improve the model's accuracy.
+3. **Polynomial Regression Modeling**:
+   - Applying polynomial regression to capture non-linear relationships and improve prediction accuracy.
 
-- Training and Model Evaluation: Teaching the model and thoroughly assessing its performance in predicting stock prices.
+4. **Feature Engineering**:
+   - Creating additional features from the date to enhance model performance.
 
+5. **Training and Model Evaluation**:
+   - Training the model on historical data and evaluating its performance to ensure reliable predictions.
 
-This structured approach helped us navigate each project phase systematically, leading to a more informed and optimized predictive model.
+### Results
+Through this structured approach, we achieved a more accurate predictive model for stock prices. Polynomial regression was particularly effective in handling the volatility and complexity of stock price movements.
+
+This project showcases a practical application of regression techniques in financial forecasting, providing insights into the effectiveness of different modeling approaches for continuous data.
